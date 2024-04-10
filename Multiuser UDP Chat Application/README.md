@@ -2,6 +2,7 @@
 
 ## Basic setup
 **THIS IS FOR WINDOWS ONLY**
+
 Once you have cloned this repository, open vscode and then split your terminal into 3. There will be one for Server, one for Client 1 and one for Client 2.
 There is cmds.txt file for all the cmds that you will need for the execution
 
