@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Kaustubh/Desktop/Kaustubh's folder/SY/SEM 4/cn/LCA",
-      "program": "c:/Users/Kaustubh/Desktop/Kaustubh's folder/SY/SEM 4/cn/LCA/build/Debug/outDebug",
+      "cwd": "c:/Users/Kaustubh/Desktop/Kaustubh's folder/SY/SEM 4/cn/lab/Multiuser UDP Chat Application",
+      "program": "c:/Users/Kaustubh/Desktop/Kaustubh's folder/SY/SEM 4/cn/lab/Multiuser UDP Chat Application/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
