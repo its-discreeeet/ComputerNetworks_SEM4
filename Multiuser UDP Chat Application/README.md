@@ -6,7 +6,8 @@ There is cmds.txt file for all the cmds that you will need for the execution
 
 ## Commands to run :-
 On the server terminal, use 
-``` gcc server.c -o server.exe -lws2_32 
+```
+    gcc server.c -o server.exe -lws2_32 
     gcc client.c -o client.exe -lws2_32
     server.exe
 ```
