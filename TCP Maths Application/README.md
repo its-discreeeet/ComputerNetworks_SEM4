@@ -12,7 +12,7 @@ On the server terminal, use
     gcc -o server.exe server.c -lws2_32 
     server.exe
 ```
-On both, Client 1 and 2 terminals, use
+On the client terminal, use
 ``` 
     gcc client.c -o client.exe -lws2_32
     client.exe 
